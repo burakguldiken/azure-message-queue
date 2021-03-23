@@ -1,4 +1,4 @@
-<img title="" src="Desktop/MessageBus/images/sunum.png">
+<img title="" src="images/sunum.png">
 
 ## Azure Storage Account Queue Operation
 
