@@ -69,14 +69,14 @@ public void InsertMessage(string queueName, string message)
 - Create a new storage account
   
 
-<img title="" src="Desktop/MessageBus/images/createStorageAccount.PNG"> 
-<img title="" src="Desktop/MessageBus/images/queueOverview.PNG"> 
-<img title="" src="Desktop/MessageBus/images/queueResult.PNG">
+<img title="" src="images/createStorageAccount.PNG"> 
+<img title="" src="images/queueOverview.PNG"> 
+<img title="" src="images/queueResult.PNG">
 
 <br><br>
 
 ## Results
 
-<img title="" src="Desktop/MessageBus/images/sendSms.PNG"> 
-<img title="" src="Desktop/MessageBus/images/emailResult.PNG"> 
-<img title="" src="Desktop/MessageBus/images/addMessageResult.PNG">
+<img title="" src="Dimages/sendSms.PNG"> 
+<img title="" src="images/emailResult.PNG"> 
+<img title="" src="images/addMessageResult.PNG">
