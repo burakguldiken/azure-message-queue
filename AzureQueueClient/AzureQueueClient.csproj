@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Core" Version="1.10.0" />
+    <PackageReference Include="Azure.Storage.Common" Version="12.7.0" />
+    <PackageReference Include="Azure.Storage.Queues" Version="12.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\Smtp\Smtp.csproj" />
+  </ItemGroup>
+
+</Project>
